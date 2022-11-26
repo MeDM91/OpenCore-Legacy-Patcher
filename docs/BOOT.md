@@ -62,7 +62,7 @@ You will soon reach the installer screen! If you enabled verbose mode when build
 
 * [OpenCore Legacy Patcher Boot Process](https://www.youtube.com/watch?v=AN3zsbQV_n4)
 
-If your Mac is looping back into the beginning of the setup after the first reboot, turn it off, start it again and hold `Option`. This time select the option with a grey hard disk icon, it can say "macOS Installer" or the name you gave the disk during the installer process. Keep repeating this step after every reboot if necessary.
+If your Mac is looping back into the beginning of the setup after the first reboot, turn it off, start it again and hold `Option`. This time select the option with a grey hard disk icon (after choosing EFI Boot), it can say "macOS Installer" or the name you gave the disk during the installer process. Keep repeating this step after every reboot if necessary.
 
 ![](../images/oclp-stuck-firstreboot.png)
 
